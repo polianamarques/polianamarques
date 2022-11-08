@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/poliana-marques-56b8b118b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="https://i.picasion.com/pic92/d6533f969c48ae50232909101d337309.gif" align="right" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
+<img src="https://i.picasion.com/pic92/d6533f969c48ae50232909101d337309.gif" align="right" width="200" height="200" border="0" alt="https://picasion.com/" /></a>
 </div>
   
 ##
