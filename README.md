@@ -1,9 +1,10 @@
 ### Oii! Eu sou a Poliana Marques 👋
 
 ##
-- 🌱 Estudo Desenvolvimento Web Full Stack na TRYBE. 
 - 😄 Pronomes: Ela/Dela
-- ⚡ Fun Fact: Sou compositora e lidero uma banda de rock 🤘🏻 
+- 💻 Estudo Desenvolvimento Web Full Stack na TRYBE.
+- 🎓 Estudo Marketing Digital na Estacio.
+- ⚡ Fun Fact: Sou compositora e lidero uma banda de rock 🤘
 
 <div align="center">
   <a href="https://github.com/polianamarques">
